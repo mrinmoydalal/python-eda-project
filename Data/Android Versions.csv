@@ -1,0 +1,52 @@
+Name,Minimum Version,Rank
+Unspecified,Unspecified,-1
+Varies with device,Varies with device,0
+Android 1.0,1.0,1
+Android 1.1,1.1,2
+Android Cupcake,1.5,3
+Android Donut,1.6,4
+Android Eclair,2.0,5
+Android Eclair,2.0.1,5
+Android Eclair,2.1,5
+Android Froyo,2.2,6
+Android Froyo,2.2.3,6
+Android Gingerbread,2.3,7
+Android Gingerbread,2.3.2,7
+Android Gingerbread,2.3.3,7
+Android Gingerbread,2.3.7,7
+Android Honeycomb,3.0,8
+Android Honeycomb,3.1,8
+Android Honeycomb,3.2,8
+Android Honeycomb,3.2.6,8
+Android Ice Cream Sandwich,4.0,9
+Android Ice Cream Sandwich,4.0.2,9
+Android Ice Cream Sandwich,4.0.3,9
+Android Ice Cream Sandwich,4.0.4,9
+Android Jelly Bean,4.1,10
+Android Jelly Bean,4.1.2,10
+Android Jelly Bean,4.2,10
+Android Jelly Bean,4.2.2,10
+Android Jelly Bean,4.3,10
+Android Jelly Bean,4.3.1,10
+Android KitKat,4.4,11
+Android KitKat,4.4.4,11
+Android KitKat,4.4W,11
+Android Lollipop,5.0,12
+Android Lollipop,5.0.2,12
+Android Lollipop,5.1,12
+Android Lollipop,5.1.1,12
+Android Marshmallow,6.0,13
+Android Marshmallow,6.0.1,13
+Android Nougat,7.0,14
+Android Nougat,7.1,14
+Android Nougat,7.1.1,14
+Android Nougat,7.1.2,14
+Android Oreo,8.0,15
+Android Oreo,8.1,15
+Android Pie,9.0,16
+Android 10,10.0,17
+Android 11,11.0,18
+Android 12,12.0,19
+Android 12L,12.1,19
+Android 13,13.0,20
+Latest,Latest,21
